@@ -1,7 +1,9 @@
-# Unit-01-Data-Wheel-Use-Cases
-This unit grouping all mini use cases from DMBOK2 frameworks.
+# U1-Data-Wheel-Use-Cases
+<p align="center">
+  This unit grouping all mini use cases from DMBOK2 frameworks.
+</p>
 
-<h1 align="center">🌌 Data Wheel — Mini Use Cases</h1>
+<h1 align="center">🌌Data Wheel — Mini Use Cases</h1>
 <p align="center"><i>Mapping the Data Universe, one dataset at a time.</i></p>
 
 <p align="center">
