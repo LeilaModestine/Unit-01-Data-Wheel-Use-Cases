@@ -5,6 +5,11 @@
   This unit grouping all mini use cases from DMBOK2 frameworks.
 </p>
 
+
+This repository showcases DMBOK use cases applied to public datasets(Chinook, Northwind, OpenFoodFacts, etc.)
+
+🎯 To demonstrate, in a concrete and traceable way, how I apply data governance & curation: policies, glossary, quality, security, architecture, and more.
+
 <p align="center">
   <a href="#01">1. Data Governance</a> ·
   <a href="#02">2. Data Architecture</a> ·
