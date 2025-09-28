@@ -1,16 +1,8 @@
-<p align="center">
-# U1 Data Wheel • Use Cases
-</p>
   
+<h1 align="center"> Data Wheel • Mini Use Cases</h1>
+
 <p align="center">
   This unit grouping all mini use cases from DMBOK2 frameworks.
-</p>
-
-<h1 align="center">🌌Data Wheel — Mini Use Cases</h1>
-<p align="center"><i>Mapping the Data Universe, one dataset at a time.</i></p>
-
-<p align="center">
-  ✨ Creative Tech Explorer | Building Skills with DMBOK2 • 🎓 Master in ICT • Paris
 </p>
 
 <p align="center">
