@@ -20,11 +20,8 @@ This repository showcases DMBOK use cases applied to public datasets(Chinook, No
   <a href="#11">11. Data Quality</a>
 </p>
 
----
 
 
-
-## Index par “pétale” (liens vers vos dossiers)
 
 ### <a id="01"></a>1. Data Governance
 - Dossier : `./01-data-governance/`
