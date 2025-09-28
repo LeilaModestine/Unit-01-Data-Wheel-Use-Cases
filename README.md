@@ -1,10 +1,11 @@
-  
 <h1 align="center"> Data Wheel • Mini Use Cases</h1>
 
 <p align="center">
 This repository presents DMBOK use cases applied to public datasets.
 </p>
 
+<!-- espace supplémentaire -->
+<br/>
 
 <p align="center">
   <a href="#01">1. Data Governance</a> ·
@@ -20,52 +21,95 @@ This repository presents DMBOK use cases applied to public datasets.
   <a href="#11">11. Data Quality</a>
 </p>
 
+---
 
+<details id="01">
+  <summary><b>1. Data Governance</b></summary>
 
-
-### <a id="01"></a>1. Data Governance
-- Dossier : `./01-data-governance/`
+- Dossier : `./01-data-governance/`  
 - Idées UC : RACI, politique de nommage, glossaire métier
 
-### <a id="02"></a>2. Data Architecture
-- Dossier : `./02-data-architecture/`
+</details>
+
+<details id="02">
+  <summary><b>2. Data Architecture</b></summary>
+
+- Dossier : `./02-data-architecture/`  
 - Idées UC : principes d’architecture, zones de données, schémas logiques
 
-### <a id="03"></a>3. Data Modeling & Design
-- Dossier : `./03-data-modeling-design/`
+</details>
+
+<details id="03">
+  <summary><b>3. Data Modeling & Design</b></summary>
+
+- Dossier : `./03-data-modeling-design/`  
 - Idées UC : modèles conceptuels/ERD, normalisation, conventions
 
-### <a id="04"></a>4. Data Storage & Operations
-- Dossier : `./04-data-storage-operations/`
+</details>
+
+<details id="04">
+  <summary><b>4. Data Storage & Operations</b></summary>
+
+- Dossier : `./04-data-storage-operations/`  
 - Idées UC : sauvegardes, archivage, policies de rétention
 
-### <a id="05"></a>5. Data Security
-- Dossier : `./05-data-security/`
+</details>
+
+<details id="05">
+  <summary><b>5. Data Security</b></summary>
+
+- Dossier : `./05-data-security/`  
 - Idées UC : RBAC de base, classification des données, principes RGPD
 
-### <a id="06"></a>6. Data Integration & Interoperability
-- Dossier : `./06-data-integration-interoperability/`
+</details>
+
+<details id="06">
+  <summary><b>6. Data Integration & Interoperability</b></summary>
+
+- Dossier : `./06-data-integration-interoperability/`  
 - Idées UC : déduplication multi-sources, mapping, petits pipelines
 
-### <a id="07"></a>7. Document & Content Management
-- Dossier : `./07-document-content-management/`
+</details>
+
+<details id="07">
+  <summary><b>7. Document & Content Management</b></summary>
+
+- Dossier : `./07-document-content-management/`  
 - Idées UC : arborescence documentaire, versionning, gabarits
 
-### <a id="08"></a>8. Reference & Master Data
-- Dossier : `./08-reference-master-data/`
+</details>
+
+<details id="08">
+  <summary><b>8. Reference & Master Data</b></summary>
+
+- Dossier : `./08-reference-master-data/`  
 - Idées UC : golden record simple, dictionnaire de valeurs
 
-### <a id="09"></a>9. Data Warehousing & BI
-- Dossier : `./09-data-warehousing-bi/`
+</details>
+
+<details id="09">
+  <summary><b>9. Data Warehousing & BI</b></summary>
+
+- Dossier : `./09-data-warehousing-bi/`  
 - Idées UC : mini-star schema, KPI de gouvernance, petit dashboard
 
-### <a id="10"></a>10. Metadata Management
-- Dossier : `./10-metadata-management/`
+</details>
+
+<details id="10">
+  <summary><b>10. Metadata Management</b></summary>
+
+- Dossier : `./10-metadata-management/`  
 - Idées UC : mini data catalog, lineage visuel
 
-### <a id="11"></a>11. Data Quality
-- Dossier : `./11-data-quality/`
+</details>
+
+<details id="11">
+  <summary><b>11. Data Quality</b></summary>
+
+- Dossier : `./11-data-quality/`  
 - Idées UC : complétude, unicité, règles de validation
+
+</details>
 
 ---
 
