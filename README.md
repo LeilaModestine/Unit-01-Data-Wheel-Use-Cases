@@ -2,7 +2,7 @@
 <h1 align="center"> Data Wheel • Mini Use Cases</h1>
 
 <p align="center">
-This repository presents DMBOK use cases applied to public datasets.
+This repository highlights DMBOK use cases on public datasets to demonstrate practical applications of data governance and curation.
 </p>
 
 
