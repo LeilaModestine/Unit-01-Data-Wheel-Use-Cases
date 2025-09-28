@@ -2,10 +2,6 @@
 <h1 align="center"> Data Wheel • Mini Use Cases</h1>
 
 <p align="center">
-  This unit grouping all mini use cases from DMBOK2 frameworks.
-</p>
-
-<p align="center">
 This repository showcases DMBOK use cases applied to public datasets(Chinook, Northwind, OpenFoodFacts, etc.). To demonstrate, in a concrete and traceable way, how I apply data governance & curation: policies, glossary, quality, security, architecture, and more.
 </p>
 
