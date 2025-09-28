@@ -1,4 +1,7 @@
-# U1-Data-Wheel-Use-Cases
+<p align="center">
+# U1 Data Wheel • Use Cases
+</p>
+  
 <p align="center">
   This unit grouping all mini use cases from DMBOK2 frameworks.
 </p>
