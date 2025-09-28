@@ -5,6 +5,144 @@
 This repository showcases DMBOK use cases applied to public datasets(Chinook, Northwind, OpenFoodFacts, etc.). To demonstrate, in a concrete and traceable way, how I apply data governance & curation: policies, glossary, quality, security, architecture, and more.
 </p>
 
+
+<!-- ========================= -->
+<!-- 🌌 Data Wheel (SVG inline) -->
+<!-- ========================= -->
+<p align="center">
+<svg viewBox="0 0 200 200" width="520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="title desc">
+  <title id="title">Data Wheel — Clickable Chapters</title>
+  <desc id="desc">Interactive wheel with 11 petals, each linking to a chapter folder of the data management framework.</desc>
+
+  <!-- Dégradé de fond -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1324"/>
+      <stop offset="100%" stop-color="#0f1b2e"/>
+    </linearGradient>
+    <!-- Style simple de survol (selon rendu GitHub, peut être discret) -->
+    <style>
+      a:hover path { filter: brightness(1.15); }
+    </style>
+  </defs>
+
+  <!-- Disque de fond -->
+  <circle cx="100" cy="100" r="98" fill="url(#bg)"/>
+
+
+
+  <!--
+    Chaque pétale est le même chemin, pivoté autour du centre (100,100).
+    L’arc couvre ~32.727° (360/11). On part du haut (12h) puis on tourne.
+    Chemin de base: centre -> haut -> arc -> retour centre.
+  -->
+  <!-- 1. Data Governance -->
+  <a xlink:href="./01-data-governance/" target="_blank">
+    <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#5eead4">
+      <title>1. Data Governance</title>
+    </path>
+  </a>
+
+  <!-- 2. Data Architecture -->
+  <a xlink:href="./02-data-architecture/" target="_blank">
+    <g transform="rotate(32.727 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#93c5fd">
+        <title>2. Data Architecture</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 3. Data Modeling & Design -->
+  <a xlink:href="./03-data-modeling-design/" target="_blank">
+    <g transform="rotate(65.454 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#fca5a5">
+        <title>3. Data Modeling & Design</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 4. Data Storage & Operations -->
+  <a xlink:href="./04-data-storage-operations/" target="_blank">
+    <g transform="rotate(98.181 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#fde68a">
+        <title>4. Data Storage & Operations</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 5. Data Security -->
+  <a xlink:href="./05-data-security/" target="_blank">
+    <g transform="rotate(130.908 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#c4b5fd">
+        <title>5. Data Security</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 6. Data Integration & Interoperability -->
+  <a xlink:href="./06-data-integration-interoperability/" target="_blank">
+    <g transform="rotate(163.635 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#86efac">
+        <title>6. Data Integration & Interoperability</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 7. Document & Content Management -->
+  <a xlink:href="./07-document-content-management/" target="_blank">
+    <g transform="rotate(196.362 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#f9a8d4">
+        <title>7. Document & Content Management</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 8. Reference & Master Data -->
+  <a xlink:href="./08-reference-master-data/" target="_blank">
+    <g transform="rotate(229.089 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#67e8f9">
+        <title>8. Reference & Master Data</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 9. Data Warehousing & BI -->
+  <a xlink:href="./09-data-warehousing-bi/" target="_blank">
+    <g transform="rotate(261.816 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#fbbf24">
+        <title>9. Data Warehousing & BI</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 10. Metadata Management -->
+  <a xlink:href="./10-metadata-management/" target="_blank">
+    <g transform="rotate(294.543 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#a3e635">
+        <title>10. Metadata Management</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- 11. Data Quality -->
+  <a xlink:href="./11-data-quality/" target="_blank">
+    <g transform="rotate(327.27 100 100)">
+      <path d="M100,100 L100,10 A90,90 0 0,1 150.9,23.2 Z" fill="#60a5fa">
+        <title>11. Data Quality</title>
+      </path>
+    </g>
+  </a>
+
+  <!-- Noyau -->
+  <circle cx="100" cy="100" r="36" fill="#0f172a" stroke="#1f2937" stroke-width="1.2"/>
+  <text x="100" y="104" text-anchor="middle" fill="#e5e7eb" font-size="9" font-weight="600">DATA WHEEL</text>
+</svg>
+</p>
+
+
+
+
+
 <p align="center">
   <a href="#01">1. Data Governance</a> ·
   <a href="#02">2. Data Architecture</a> ·
