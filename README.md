@@ -1,7 +1,7 @@
-<h1 align="center"> Data Wheel • Mini Use Cases</h1>
+<h1 align="center"> DMBOK2 • Use Cases</h1>
 
 <p align="center">
-This repository presents DMBOK use cases applied to public datasets.
+This repository presents the Data Wheel from DMBOK and use cases applied to public datasets.
 </p>
 
 <!-- espace supplémentaire -->
