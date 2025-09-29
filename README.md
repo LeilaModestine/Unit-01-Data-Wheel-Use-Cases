@@ -4,6 +4,8 @@
 This repository presents the Data Wheel from DMBOK and use cases applied to public datasets.
 </p>
 
+<img width="1024" height="1024" alt="ChatGPT Image 29 sept  2025 à 06_32_17" src="https://github.com/user-attachments/assets/8af8df9e-3aeb-481a-bf2f-bd7e03a46a11" />
+
 <!-- espace supplémentaire -->
 <br/>
 
